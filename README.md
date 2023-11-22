@@ -6,7 +6,7 @@ I am Alberto Martino, a second-year BSc Politics and Data Science Student at [th
 
 🗺️ Hi! I am originally from Milan, Italy, where I have spent eighteen years of my life. In September 2022, I moved to London for my bachelor's degree, which I will complete in 2025. 
 
-🗣️ I have a strong interest in International Organisations and Global Affairs! In 2020, I won a competition organised by the European Commission, Bocconi University and LaRepublica Newspaper with a paper on EU relations with the US and China.
+🗣️ I have a strong interest in International Organisations and Global Affairs! In 2020, I won a competition organised by the European Commission, Bocconi University and La Repubblica Newspaper with a paper on EU relations with the US and China.
 
 ## Current Projects
 
