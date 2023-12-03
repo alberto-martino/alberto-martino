@@ -8,17 +8,17 @@ I am Alberto Martino, a second-year BSc Politics and Data Science Student at [th
 
 🗣️ I have a strong interest in International Organisations and Global Affairs! In 2020, I won a competition organised by the European Commission, Bocconi University and La Repubblica Newspaper with a paper on EU relations with the US and China.
 
+👨‍💼 Over the summer I worked as Research Assistant at the Department of Government @ LSE.
+
 ## Current Projects
 
 💸 For DS105L, my teammates and I are currently working on a project analysing the impact of **education** on salary and job in the United States of America: stay tuned for more!
 
-🐍 Currently trying to improve my Python and Tableau skills. And my French as well, _oui oui_ 🥖
+🐍 Currently developing my R and SQL skills. And my French as well, _oui oui_ 🥖
 
 ## What comes next?
 
 ❓ I would like to explore the theme of Artificial Intelligence and ethics or the tensions in the [semiconductor market](https://www.bbc.com/news/business-63995570).
-
-🗄️ I would like to expand my knowledge of SQL and R soon. 
 
 🤝 If you would like to collaborate, drop me an email at [albertomartino.it@gmail.com](mailto:albertomartino.it@gmail.com)!
 
