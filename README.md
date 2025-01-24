@@ -1,6 +1,6 @@
 # Hi, welcome to my profile!
 
-I am Alberto Martino, a second-year BSc Politics and Data Science Student at [the London School of Economics](https://www.lse.ac.uk/).
+I am Alberto Martino, a third-year BSc Politics and Data Science Student at [the London School of Economics](https://www.lse.ac.uk/).
 
 ## About Me
 
@@ -8,13 +8,7 @@ I am Alberto Martino, a second-year BSc Politics and Data Science Student at [th
 
 🗣️ I have a strong interest in International Organisations and Global Affairs! In 2020, I won a competition organised by the European Commission, Bocconi University and La Repubblica Newspaper with a paper on EU relations with the US and China.
 
-👨‍💼 Over the summer I worked as Research Assistant at the Department of Government @ LSE.
-
-## Current Projects
-
-💸 For DS105L, my teammates and I are currently working on a project analysing the impact of **education** on salary and job in the United States of America: stay tuned for more!
-
-🐍 Currently developing my R and SQL skills. And my French as well, _oui oui_ 🥖
+👨‍💼 Over the summer I worked as a Research Assistant at the Department of Government @ LSE.
 
 ## What comes next?
 
